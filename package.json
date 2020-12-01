@@ -1,0 +1,73 @@
+{
+  "homepage":"https://tharakawijesundara.github.io/web",
+  "name": "react-elegant-smooth-website",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/core": "^10.0.35",
+    "@fortawesome/fontawesome-svg-core": "^1.2.32",
+    "@fortawesome/free-brands-svg-icons": "^5.15.1",
+    "@fortawesome/free-solid-svg-icons": "^5.15.1",
+    "@fortawesome/react-fontawesome": "^0.1.11",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "aos": "^2.3.4",
+    "bootstrap": "^4.5.3",
+    "gsap": "^3.5.1",
+    "mdbreact": "^4.27.0",
+    "node-sass": "^4.14.1",
+    "prop-types": "^15.7.2",
+    "pure-react-carousel": "^1.27.6",
+    "react": "^16.14.0",
+    "react-animate-reorder": "^1.0.1",
+    "react-animation-components": "^3.0.0",
+    "react-bootstrap": "^1.4.0",
+    "react-dom": "^16.14.0",
+    "react-flip-move": "^3.0.4",
+    "react-hamburger-menu": "^1.2.1",
+    "react-loadingg": "^1.7.2",
+    "react-native-cli": "^2.0.1",
+    "react-particles-js": "^3.4.1",
+    "react-responsive": "^8.1.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.3",
+    "react-scroll": "^1.8.1",
+    "react-simple-animate": "^3.3.10",
+    "react-staggered-animation": "0.0.2",
+    "react-sticky-nav": "^4.0.6",
+    "react-transition-group": "^4.4.1",
+    "react-tsparticles": "^1.18.10",
+    "react-typing-animation": "^1.6.2",
+    "reactstrap": "^8.6.0",
+    "styled-components": "^5.2.1",
+    "tailwindcss": "^1.9.6",
+    "typewriter-effect": "^2.13.1"
+  },
+  "scripts": {
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}

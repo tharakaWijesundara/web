@@ -1,0 +1,27 @@
+.descParagraph1{
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 100%;
+    font-family: 'FreeSans';
+    font-size: 21px;
+    font-weight: 500;
+    line-height: 1.4;
+    align-items: center;
+    font-style: italic;
+    color: black;
+    justify-content: center;
+    margin-bottom:5px;
+}
+.descParagraph2{
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 100%;
+    font-family: 'FreeSans';
+    font-size: 21px;
+    font-weight: 500;
+    line-height: 1.4;
+
+    align-items: center;
+    color: black;
+    justify-content: center;
+}

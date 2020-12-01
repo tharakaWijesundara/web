@@ -1,0 +1,7 @@
+.cardsRowDiv{
+    display: flex;
+    justify-content: center;
+  }
+.reviewRowElements{
+  justify-content: center;
+}

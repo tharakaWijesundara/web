@@ -1,0 +1,43 @@
+.footerRowDiv{
+    display: flex;
+    justify-content: center;
+    /* @media screen and (max-width: 480px) {
+        max-width: 100%;
+        flex-direction: column-reverse;
+      } */
+}
+.footerRowElements{
+    justify-content: center;
+    
+  }
+.footerFirstCol{
+    max-width: 500px;
+    align-content: center;
+    z-index: 3;
+}
+.bottomTextLogo{
+    max-width: 500px;
+    color: #1a202c;
+    text-align: left;
+    font-style: italic;
+    font-family: 'FreeSans';
+}
+.navigateTo{
+    color: #1a202c;
+    font-family: 'FreeSans';
+    font-size: 20px;
+    font-weight: bold;
+}
+.links{
+    color: #1a202c;
+    font-family: 'FreeSans';
+    font-size: 15px;
+
+}
+.contacts{
+    color: #1a202c;
+    font-family: 'FreeSans';
+    font-size: 15px;
+    font-weight: 100;
+}
+

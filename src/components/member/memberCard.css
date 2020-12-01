@@ -1,0 +1,40 @@
+.memberCardDiv{
+    /* background-color: yellow; */
+    display: flex;
+    height: 350px;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+
+    
+}
+.memberCardName{
+    margin-top: 5px;
+    width:200px;
+    /* background-color: tomato; */
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    color: #460c5e;
+
+}
+.memberCardPosition{
+    font-family: 'Rubik', sans-serif;
+    width:130px;
+    font-size: 15px;
+    font-weight: normal;
+    color: #DD038F;
+}
+@media only screen and (max-width: 480px) {
+    .memberCardName{
+        width:150px;
+        font-size: 18px;
+    }
+    .memberCardDiv{
+        height: 230px;
+    }
+}

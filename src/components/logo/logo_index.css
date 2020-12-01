@@ -1,0 +1,26 @@
+.LogoText1{
+  font-family: 'Rubik', sans-serif;
+  color: #460c5e;
+  font-size: 20px;
+  font-weight: 500;
+  display: inline-block;
+
+  @media screen and (max-width: 480px) {
+    text-align: center;
+  }
+}
+
+
+.LogoText2{
+  font-family: 'Rubik', sans-serif;
+    color: #DD038F;
+    font-size: 20px;
+    font-weight: 500;
+    display: inline-block;
+  
+    @media screen and (max-width: 480px) {
+      text-align: center;
+    }
+  }
+
+  

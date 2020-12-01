@@ -1,0 +1,34 @@
+.moreAboutRowDiv{
+    display: flex;
+    justify-content: center;
+    /* max-width: 1000px; */
+    /* background-color: tomato; */
+    
+    /* @media screen and (max-width: 480px) {
+        max-width: 100%;
+        flex-direction: column-reverse;
+      } */
+}
+
+.rowElements{
+    justify-content: center;
+    /* background-color: turquoise; */
+    /* align-items: center; */
+  }
+.firstCol{
+  margin-top: 50px;
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 500px;
+/* background-color: yellow; */
+  }
+.back-image{
+  background-color: #1a202c;
+}
+
+.text-about{
+  font-size: 55px;
+  font-family: 'FreeSans';
+  font-weight: bold;
+  color: aliceblue;
+}
